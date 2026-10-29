@@ -1,24 +1,40 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=220&section=header&text=Harshit%20Saini&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Harshit Saini Header"/>
-
-  <!-- Dynamic Typing SVG -->
+  <!-- Ultra High-Definition Vector Banner -->
   <a href="https://github.com/HarshitSaini111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+(MERN+%2B+Python)+%F0%9F%92%BB;Passionate+about+LLMs%2C+BERT+%26+Deep+Learning+%F0%9F%A7%A0;Crafting+Production-Ready+Intelligent+Apps+%E2%9A%A1;B.Tech+CSE+(AI+%26+ML)+%40+KIET+%F0%9F%8E%93" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/HarshitSaini111/HarshitSaini111/main/assets/header.svg" width="100%" alt="Harshit Saini — AI/ML Engineer & Full-Stack Systems Architect" />
   </a>
 
   <br/><br/>
 
-  <!-- Status Badges -->
+  <!-- Dynamic Typing SVG -->
+  <a href="https://github.com/HarshitSaini111">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=750&lines=AI+%26+Machine+Learning+Engineer+%F0%9F%A4%96;Full-Stack+Web+Developer+(MERN+%2B+Python)+%F0%9F%92%BB;Fine-Tuning+BERT+%26+Transformer+Models+%F0%9F%A7%A0;Architect+of+ResumeScore+(FastAPI+%2B+React)+%E2%9A%A1;B.Tech+CSE+(AI+%26+ML)+%40+KIET+Group+of+Institutions+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Real-time Status Badges -->
   <a href="https://github.com/HarshitSaini111">
     <img src="https://komarev.com/ghpvc/?username=HarshitSaini111&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to-Opportunities-brightgreen?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open to Opportunities" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities%20%26%20Collabs-brightgreen?style=for-the-badge&logo=codeforces&logoColor=white" alt="Open to Opportunities" />
   <img src="https://img.shields.io/badge/Location-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="mailto:harshitsaini1705@gmail.com">
     <img src="https://img.shields.io/badge/Email-harshitsaini1705%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+  <br/><br/>
+
+  <!-- Quick Navigation Bar -->
+  <p align="center">
+    <a href="#-about-me"><b>👨‍💻 About Me</b></a> &nbsp;•&nbsp;
+    <a href="#️-tech-stack--arsenal"><b>🛠️ Tech Stack</b></a> &nbsp;•&nbsp;
+    <a href="#-featured-flagship-projects"><b>🚀 Featured Projects</b></a> &nbsp;•&nbsp;
+    <a href="#-github-analytics--ecosystem"><b>📊 Analytics</b></a> &nbsp;•&nbsp;
+    <a href="#-credentials--certifications"><b>🏆 Credentials</b></a> &nbsp;•&nbsp;
+    <a href="#-connect--collaborate"><b>🤝 Connect</b></a>
+  </p>
 
 </div>
 
@@ -26,76 +42,45 @@
 
 ### 👨‍💻 About Me
 
-Hello world! 👋 I’m **Harshit Saini**, a Computer Science & Engineering undergraduate specializing in **Artificial Intelligence & Machine Learning** at **KIET Group of Institutions**, and an experienced developer passionate about architecting intelligent, high-impact systems.
+Hello world! 👋 I’m **Harshit Saini**, a Computer Science & Engineering undergraduate specializing in **Artificial Intelligence & Machine Learning** at **KIET Group of Institutions**, and an active full-stack systems engineer dedicated to building scalable, intelligent platforms.
 
-My work bridges modern **Machine Learning & Deep Learning** (NLP, Transformers, Computer Vision, LLMs) with **Production Full-Stack Engineering** (React, Vite, Node.js, Express, FastAPI, MongoDB). Whether it’s training custom predictive models or deploying production-grade AI platforms like [ResumeScore](https://ai-resume-score-nine.vercel.app), I love transforming complex challenges into elegant, performant software solutions.
+My technical trajectory converges around **Deep Learning, NLP, and Transformer Architectures** on the AI front, paired with **High-Performance Full-Stack Web Systems** (React, TypeScript, FastAPI, Node.js, Express, MongoDB) on the engineering side. From training neural classifiers to deploying production-grade AI platforms like [ResumeScore](https://ai-resume-score-nine.vercel.app), I turn complex theoretical foundations into battle-tested software.
 
 - 🎓 **Education**: B.Tech in CSE (Artificial Intelligence & Machine Learning) @ **KIET Group of Institutions**
-- 💼 **Experience**: Ex-Frontend Engineering Intern @ **DecodeLabs** — engineered interactive web products, financial analytics dashboards, and modular UI components
-- 🚀 **Flagship Product**: Architected & Deployed **[ResumeScore](https://ai-resume-score-nine.vercel.app)** — an AI-powered resume screening platform integrating Groq LLMs, FastAPI, and React
-- 🧠 **Areas of Focus**: Natural Language Processing (BERT fine-tuning), Deep Learning (CNNs & Perceptrons), Predictive Analytics, and Full-Stack MERN Architecture
-- 📜 **Certifications**: **AWS Academy Graduate — Machine Learning Foundations** | **MongoDB Certified**
-- 🎯 **Current Endeavors**: Advanced LLM orchestration, agentic architectures, and microservice engineering
-- 📫 **Reach Me**: [harshitsaini1705@gmail.com](mailto:harshitsaini1705@gmail.com)
+- 💼 **Industry Experience**: Ex-Frontend Engineering Intern @ **DecodeLabs** — designed responsive component systems, real-time transaction dashboards (**SpendWise**), and course discovery catalogs (**AI Learning Hub**)
+- 🚀 **Flagship Production Build**: Architected & Deployed **[ResumeScore](https://ai-resume-score-nine.vercel.app)** — an AI resume screening platform running Groq LLM inference (`openai/gpt-oss-120b`), FastAPI, and React
+- 🧠 **Core Research & Competencies**: Natural Language Processing (BERT fine-tuning), Deep Learning (CNNs, Backpropagation, Perceptrons), Predictive Analytics, and MERN Architecture
+- 📜 **Accredited Certifications**: **AWS Academy Graduate — Machine Learning Foundations** & **MongoDB Certified**
+- 🎯 **Current Focus**: Advanced LLM orchestration, agentic AI workflows, and microservice architectures
+- 💬 **Ask Me About**: Python, React, FastAPI, Node.js, PyTorch, MongoDB, Transformers, and LLM Integration
+- 📫 **Contact Directly**: [harshitsaini1705@gmail.com](mailto:harshitsaini1705@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
-
-#### 🧠 AI, Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/BERT-NLP-9B59B6?style=for-the-badge&logo=semantic-web&logoColor=white" alt="BERT"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Groq%20API-Fast%20LLM-f55036?style=for-the-badge" alt="Groq API"/>
-</p>
-
-#### 🌐 Full-Stack Web Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
-</p>
-
-#### ⚙️ Backend, APIs & Databases
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs"/>
-</p>
-
-#### ☁️ DevOps, Cloud & Utilities
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
-
+  <!-- Interactive Modern Skillicons Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,scikitlearn,js,ts,react,vite,tailwind,redux,nodejs,express,mongodb,java,mysql,git,github,aws,vercel,render,postman,docker,linux&perline=12" alt="Harshit Saini Tech Stack" />
+  </a>
 </div>
+
+<br/>
+
+<details open>
+<summary><b>🔍 Expand Detailed Categorical Breakdown</b></summary>
+<br/>
+
+| Domain | Technologies & Libraries |
+| :--- | :--- |
+| **🧠 AI, ML & NLP** | **Python**, **PyTorch**, **TensorFlow**, **Scikit-Learn**, **BERT**, **Hugging Face Transformers**, **Pandas**, **NumPy**, **Groq LLM API**, **Jupyter Notebooks**, **Google Colab** |
+| **🌐 Frontend Engineering** | **React.js**, **Vite**, **TypeScript**, **JavaScript (ES6+)**, **Tailwind CSS**, **Redux Toolkit**, **Chart.js**, **HTML5**, **CSS3**, **Bootstrap** |
+| **⚙️ Backend & APIs** | **FastAPI**, **Uvicorn**, **Node.js**, **Express.js**, **Java**, **RESTful APIs**, **JWT Authentication**, **Pydantic**, **Bcrypt** |
+| **🍃 Databases & ORMs** | **MongoDB Atlas**, **Mongoose ODM**, **MySQL**, **PostgreSQL** |
+| **☁️ Cloud, DevOps & Tools** | **AWS**, **Vercel**, **Render**, **Git**, **GitHub**, **Postman**, **VS Code**, **Bash / Linux**, **npm / uv** |
+
+</details>
 
 ---
 
@@ -116,10 +101,11 @@ My work bridges modern **Machine Learning & Deep Learning** (NLP, Transformers, 
           <img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Repo"/>
         </a>
       </div>
+      <br/>
       <p>
-        Production-deployed full-stack web application evaluating how closely candidate resumes align with job descriptions. Features automated PDF/DOCX parsing, AI extraction of skills and experience, missing skill gap analysis, match scoring, and LLM-generated verdicts via Groq inference.
+        <b>Production-deployed full-stack platform</b> evaluating how candidate resumes match role specifications. Extracts text from multi-format PDFs and DOCX files, computes skill gap matrices, and generates AI hiring verdicts via high-throughput Groq LLM inference (<code>openai/gpt-oss-120b</code>).
       </p>
-      <b>Tech Stack:</b> React, Vite, FastAPI, Groq API (gpt-oss-120b), Pydantic, pypdf, python-docx
+      <b>Tech Stack:</b> React, Vite, FastAPI, Groq API, Pydantic, pypdf, python-docx
     </td>
     <td width="50%" valign="top">
       <h3 align="center">📈 StockSim & SkillWallet</h3>
@@ -129,8 +115,9 @@ My work bridges modern **Machine Learning & Deep Learning** (NLP, Transformers, 
         </a>
         <img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
       </div>
+      <br/>
       <p>
-        Full-stack stock trading simulation and portfolio management platform. Provides interactive real-time asset tracking, candlestick charts with Chart.js, global state management via Redux Toolkit, and secure backend trade reconciliation with MongoDB.
+        <b>Real-time virtual stock market simulation suite</b> featuring live candlestick price visualizers via Chart.js, normalized asset state management via Redux Toolkit, authenticated portfolio wallets, and persistent trade transaction histories backed by MongoDB.
       </p>
       <b>Tech Stack:</b> React, TypeScript, Redux Toolkit, TailwindCSS, Chart.js, Node.js, Express, MongoDB
     </td>
@@ -144,8 +131,9 @@ My work bridges modern **Machine Learning & Deep Learning** (NLP, Transformers, 
         </a>
         <img src="https://img.shields.io/badge/Security-JWT%20Auth-black?style=for-the-badge&logo=jsonwebtokens" alt="JWT"/>
       </div>
+      <br/>
       <p>
-        Scalable talent acquisition system streamlining candidate filtering and job role matching. Implements enterprise-grade JWT authentication, password salting with bcrypt, granular schema validation with Mongoose, and modular REST endpoints.
+        <b>Automated recruiter workflow engine</b> optimizing candidate sorting across open job positions. Built with secure JSON Web Token authentication, bcrypt credential salting, asynchronous Express 5 handlers, and scalable Mongoose data modeling.
       </p>
       <b>Tech Stack:</b> Node.js, Express 5, MongoDB, Mongoose, JWT, bcryptjs, Axios
     </td>
@@ -157,10 +145,11 @@ My work bridges modern **Machine Learning & Deep Learning** (NLP, Transformers, 
         </a>
         <img src="https://img.shields.io/badge/Model-BERT%20Transformer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
       </div>
+      <br/>
       <p>
-        Comprehensive natural language processing research suite implementing fine-tuned BERT transformer architectures for complex sentiment classification, textual feature extraction, tokenization, and model evaluation metrics.
+        <b>Experimental deep NLP suite</b> fine-tuning bidirectional encoder representations from transformers (BERT) for multi-class sentiment classification, sub-word tokenization, attention weight inspection, and cross-entropy optimization.
       </p>
-      <b>Tech Stack:</b> Python, PyTorch, Hugging Face Transformers, BERT, Jupyter, Colab
+      <b>Tech Stack:</b> Python, PyTorch, Hugging Face Transformers, BERT, Jupyter
     </td>
   </tr>
   <tr>
@@ -172,10 +161,11 @@ My work bridges modern **Machine Learning & Deep Learning** (NLP, Transformers, 
         </a>
         <img src="https://img.shields.io/badge/Domain-FinTech%20AI-0052CC?style=for-the-badge" alt="Fintech"/>
       </div>
+      <br/>
       <p>
-        Machine learning pipeline architected to detect fraudulent financial transactions across highly skewed datasets. Employs advanced resampling, feature scaling, precision-recall optimization, and ensemble decision algorithms.
+        <b>Predictive ML anomaly pipeline</b> identifying high-risk transaction patterns on heavily skewed datasets (Kaggle). Employs robust outlier detection, feature standard scaling, precision-recall curve tuning, and ensemble classification algorithms.
       </p>
-      <b>Tech Stack:</b> Python, Scikit-learn, Pandas, NumPy, Google Colab
+      <b>Tech Stack:</b> Python, Scikit-learn, Pandas, NumPy, Colab
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🫀 Cardiovascular Health Predictor</h3>
@@ -185,48 +175,49 @@ My work bridges modern **Machine Learning & Deep Learning** (NLP, Transformers, 
         </a>
         <img src="https://img.shields.io/badge/Domain-Healthcare%20AI-E11D48?style=for-the-badge" alt="Healthcare"/>
       </div>
+      <br/>
       <p>
-        Clinical predictive modeling application evaluating multi-dimensional patient biometric indicators (ECG, cholesterol, blood pressure) to provide early risk stratification with high statistical sensitivity.
+        <b>Supervised clinical decision support model</b> analyzing continuous and categorical patient biometrics (serum cholesterol, resting BP, ECG patterns) for early cardiac diagnostic stratification.
       </p>
-      <b>Tech Stack:</b> Python, Scikit-learn, Exploratory Data Analysis, Supervised Learning
+      <b>Tech Stack:</b> Python, Scikit-learn, Exploratory Data Analysis, Statistical ML
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Analytics & Real-Time Stats
+### 📊 GitHub Analytics & Ecosystem
 
 <div align="center">
+
+  <!-- Self-Hosted Native Vector Stats & Language Cards -->
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=HarshitSaini111&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=a855f7&text_color=e2e8f0&bg_color=0d1117" alt="Harshit's GitHub Stats" width="460px"/>
+        <img src="https://raw.githubusercontent.com/HarshitSaini111/HarshitSaini111/main/assets/stats.svg" alt="GitHub Stats" width="460px" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSaini111&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" alt="Top Languages" width="370px"/>
+        <img src="https://raw.githubusercontent.com/HarshitSaini111/HarshitSaini111/main/assets/languages.svg" alt="Top Languages" width="460px" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitSaini111&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=a855f7&fire=f59e0b&currStreakNum=38bdf8" alt="GitHub Streak" width="830px"/>
+  <!-- Active Streak Counter -->
+  <a href="https://github.com/HarshitSaini111">
+    <img src="https://streak-stats.demolab.com?user=HarshitSaini111&theme=tokyonight&hide_border=true&stroke=38bdf8&ring=a855f7&fire=f43f5e&currStreakNum=38bdf8" alt="GitHub Streak" width="820px" />
+  </a>
 
-  <br/><br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitSaini111&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=a855f7&point=38bdf8" alt="Activity Graph" width="830px"/>
 </div>
 
 ---
 
-### 🏆 Credentials & Highlights
+### 🏆 Credentials & Certifications
 
 - 🎖️ **AWS Academy Graduate**: Machine Learning Foundations
-- 🍃 **MongoDB Certified**: Associate Developer & Document Database Foundations
-- 💼 **DecodeLabs**: Frontend Web Development Internship (Learning Hub & SpendWise Expense Tracker)
+- 🍃 **MongoDB Certified**: Associate Developer & Document Database Architecture
+- 💼 **DecodeLabs**: Frontend Web Development Internship (SpendWise & AI Learning Hub)
 - 🎓 **KIET Group of Institutions**: B.Tech in Computer Science & Engineering (Artificial Intelligence & Machine Learning)
 - 💻 **30+ Repositories & Implementations**: Spanning full-stack production apps, deep learning research, and predictive modeling
 
@@ -234,27 +225,23 @@ My work bridges modern **Machine Learning & Deep Learning** (NLP, Transformers, 
 
 ### 🤝 Connect & Collaborate
 
-Whether you want to discuss AI/ML innovations, full-stack development, open-source projects, or potential opportunities — my inbox is always open!
+Whether you want to discuss AI/ML innovations, full-stack architecture, open-source projects, or potential opportunities — feel free to reach out!
 
 <div align="center">
 
   <a href="mailto:harshitsaini1705@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-harshitsaini1705%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/HarshitSaini111">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/GitHub-HarshitSaini111-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://ai-resume-score-nine.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio%20App-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="ResumeScore Live"/>
+    <img src="https://img.shields.io/badge/ResumeScore-Live%20App-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="ResumeScore Live"/>
   </a>
 
-</div>
+  <br/><br/>
 
-<br/>
+  <!-- Native Vector Footer -->
+  <img src="https://raw.githubusercontent.com/HarshitSaini111/HarshitSaini111/main/assets/footer.svg" width="100%" alt="Footer Banner" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24&height=120&section=footer" width="100%" alt="Footer Banner"/>
 </div>
