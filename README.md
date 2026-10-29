@@ -2,14 +2,14 @@
 
   <!-- Ultra-Sleek Monochrome Vector Banner -->
   <a href="https://github.com/HarshitSaini111">
-    <img src="https://raw.githubusercontent.com/HarshitSaini111/HarshitSaini111/main/assets/header.svg" width="100%" alt="Harshit Saini — AI/ML Engineer & Full-Stack Systems Architect" />
+    <img src="https://raw.githubusercontent.com/HarshitSaini111/HarshitSaini111/main/assets/header.svg" width="100%" alt="Harshit Saini — AI & Full Stack Developer" />
   </a>
 
   <br/><br/>
 
   <!-- Dynamic Typing SVG (Monochrome Silver/White) -->
   <a href="https://github.com/HarshitSaini111">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=750&lines=AI+%26+Machine+Learning+Engineer+%E2%AC%A1;Full-Stack+Web+Developer+(MERN+%2B+Python)+%E2%AC%A2;Fine-Tuning+BERT+%26+Transformer+Models+%E2%97%88;Architect+of+ResumeScore+(FastAPI+%2B+React)+%E2%9C%A7;B.Tech+CSE+(AI+%26+ML)+%40+KIET+Group+of+Institutions+%E2%97%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=750&lines=AI+%26+Full+Stack+Developer+%E2%AC%A1;Full-Stack+Web+Developer+(MERN+%2B+Python)+%E2%AC%A2;Fine-Tuning+BERT+%26+Transformer+Models+%E2%97%88;Architect+of+ResumeScore+(FastAPI+%2B+React)+%E2%9C%A7;B.Tech+CSE+(AI+%26+ML)+%40+KIET+Group+of+Institutions+%E2%97%86" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -42,7 +42,7 @@
 
 ### 👨‍💻 About Me
 
-Hello world! 👋 I’m **Harshit Saini**, a Computer Science & Engineering undergraduate specializing in **Artificial Intelligence & Machine Learning** at **KIET Group of Institutions**, and an active full-stack systems engineer dedicated to building scalable, intelligent platforms.
+Hello world! 👋 I’m **Harshit Saini**, an **AI & Full Stack Developer** and Computer Science & Engineering undergraduate specializing in **Artificial Intelligence & Machine Learning** at **KIET Group of Institutions**, passionate about engineering scalable, intelligent applications.
 
 My technical trajectory converges around **Deep Learning, NLP, and Transformer Architectures** on the AI front, paired with **High-Performance Full-Stack Web Systems** (React, TypeScript, FastAPI, Node.js, Express, MongoDB) on the engineering side. From training neural classifiers to deploying production-grade AI platforms like [ResumeScore](https://ai-resume-score-nine.vercel.app), I turn complex theoretical foundations into battle-tested software.
 
