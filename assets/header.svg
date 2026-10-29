@@ -1,174 +1,164 @@
-<svg width="1000" height="340" viewBox="0 0 1000 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="320" viewBox="0 0 1000 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Background Canvas Gradient -->
+    <!-- Dark Obsidian Canvas Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#060913" />
-      <stop offset="50%" stop-color="#0b1120" />
-      <stop offset="100%" stop-color="#05070e" />
+      <stop offset="0%" stop-color="#050505" />
+      <stop offset="50%" stop-color="#0b0b0d" />
+      <stop offset="100%" stop-color="#020202" />
     </linearGradient>
 
-    <!-- Glowing Cyber Gradients -->
-    <radialGradient id="glowCyan" cx="15%" cy="25%" r="65%">
-      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.28" />
-      <stop offset="60%" stop-color="#00f2fe" stop-opacity="0.03" />
-      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0" />
+    <!-- Metallic Platinum Title Gradient -->
+    <linearGradient id="monoTitle" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="40%" stop-color="#f4f4f5" />
+      <stop offset="75%" stop-color="#d4d4d8" />
+      <stop offset="100%" stop-color="#a1a1aa" />
+    </linearGradient>
+
+    <!-- Subtle Edge Platinum Glow -->
+    <linearGradient id="edgeGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#27272a" stop-opacity="0" />
+      <stop offset="30%" stop-color="#52525b" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="70%" stop-color="#52525b" />
+      <stop offset="100%" stop-color="#27272a" stop-opacity="0" />
+    </linearGradient>
+
+    <!-- Subtle Radial Glow in Center -->
+    <radialGradient id="centerGlow" cx="50%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.07" />
+      <stop offset="60%" stop-color="#ffffff" stop-opacity="0.01" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
     </radialGradient>
 
-    <radialGradient id="glowPurple" cx="85%" cy="25%" r="65%">
-      <stop offset="0%" stop-color="#9333ea" stop-opacity="0.30" />
-      <stop offset="50%" stop-color="#4f46e5" stop-opacity="0.08" />
-      <stop offset="100%" stop-color="#9333ea" stop-opacity="0" />
-    </radialGradient>
-
-    <!-- Main Title Holographic Gradient -->
-    <linearGradient id="hologramTitle" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="35%" stop-color="#818cf8" />
-      <stop offset="70%" stop-color="#c084fc" />
-      <stop offset="100%" stop-color="#f43f5e" />
-    </linearGradient>
-
-    <!-- Border Accent Gradient -->
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#38bdf8" />
-      <stop offset="50%" stop-color="#a855f7" />
-      <stop offset="100%" stop-color="#f43f5e" />
-    </linearGradient>
-
-    <!-- Grid Pattern -->
-    <pattern id="techGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.7" />
-      <circle cx="40" cy="40" r="1.2" fill="#38bdf8" fill-opacity="0.35" />
+    <!-- Minimalist Grid Pattern -->
+    <pattern id="monoGrid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#27272a" stroke-width="0.65" stroke-opacity="0.45" />
+      <circle cx="32" cy="32" r="0.8" fill="#ffffff" fill-opacity="0.25" />
     </pattern>
 
-    <!-- Pill Background Gradient -->
-    <linearGradient id="pillBg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    <!-- Chip Gradient Background -->
+    <linearGradient id="chipBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#18181b" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#09090b" stop-opacity="0.95" />
     </linearGradient>
   </defs>
 
   <style>
-    @keyframes radarBlink {
-      0%, 100% { opacity: 1; transform: scale(1); }
-      50% { opacity: 0.35; transform: scale(0.9); }
+    @keyframes pulseMono {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
     }
-    .main-title {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "SF Pro Display", Roboto, "Helvetica Neue", Arial, sans-serif;
+    .title-bold {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "SF Pro Display", Roboto, "Helvetica Neue", sans-serif;
       font-weight: 900;
-      letter-spacing: 4px;
+      letter-spacing: 5px;
     }
-    .sub-title {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      font-weight: 700;
+    .subtitle-clean {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+      font-weight: 600;
       letter-spacing: 2px;
     }
-    .motto-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      font-weight: 400;
-    }
-    .mono-pill {
+    .text-mono {
       font-family: "SF Mono", Monaco, Menlo, Consolas, "Courier New", monospace;
       font-size: 11px;
       font-weight: 600;
+      letter-spacing: 0.5px;
     }
-    .radar {
-      animation: radarBlink 2.2s infinite ease-in-out;
+    .dot-pulse {
+      animation: pulseMono 2.5s infinite ease-in-out;
     }
   </style>
 
-  <!-- Background Layer -->
-  <rect width="1000" height="340" rx="18" fill="url(#bgGrad)" stroke="#1e293b" stroke-width="1.5" />
-  <rect width="1000" height="340" rx="18" fill="url(#techGrid)" />
+  <!-- Base Canvas -->
+  <rect width="1000" height="320" rx="14" fill="url(#bgGrad)" stroke="#27272a" stroke-width="1.2" />
+  <rect width="1000" height="320" rx="14" fill="url(#monoGrid)" />
+  <circle cx="500" cy="140" r="320" fill="url(#centerGlow)" />
 
-  <!-- Ambient Glowing Orbs -->
-  <circle cx="180" cy="110" r="280" fill="url(#glowCyan)" />
-  <circle cx="820" cy="120" r="280" fill="url(#glowPurple)" />
+  <!-- Top Razor Line -->
+  <rect x="0" y="0" width="1000" height="2" fill="url(#edgeGlow)" />
 
-  <!-- Top Accent Neon Bar -->
-  <rect x="0" y="0" width="1000" height="4" rx="2" fill="url(#borderGrad)" />
+  <!-- Top Status / Navigation Row -->
+  <g transform="translate(45, 28)">
+    <!-- Pill 1: Status -->
+    <rect x="0" y="0" width="225" height="28" rx="14" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+    <circle class="dot-pulse" cx="16" cy="14" r="4" fill="#ffffff" />
+    <text x="28" y="18" fill="#a1a1aa" class="text-mono">STATUS: <tspan fill="#ffffff" font-weight="700">ACTIVE &amp; BUILDING</tspan></text>
 
-  <!-- Top Status / Metadata Bar -->
-  <g transform="translate(45, 30)">
-    <!-- Radar Pill -->
-    <rect x="0" y="0" width="235" height="30" rx="15" fill="url(#pillBg)" stroke="#334155" stroke-width="1" />
-    <circle class="radar" cx="16" cy="15" r="4.5" fill="#10b981" />
-    <text x="30" y="19.5" fill="#94a3b8" class="mono-pill">STATUS: <tspan fill="#34d399">ACTIVE &amp; BUILDING</tspan></text>
+    <!-- Pill 2: Education -->
+    <rect x="237" y="0" width="250" height="28" rx="14" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+    <text x="250" y="18" fill="#a1a1aa" class="text-mono">FOCUS: <tspan fill="#f4f4f5">CSE (AI &amp; ML) @ KIET</tspan></text>
 
-    <!-- Education Pill -->
-    <rect x="247" y="0" width="250" height="30" rx="15" fill="url(#pillBg)" stroke="#334155" stroke-width="1" />
-    <text x="260" y="19.5" fill="#94a3b8" class="mono-pill">FOCUS: <tspan fill="#38bdf8">CSE (AI &amp; ML) @ KIET</tspan></text>
+    <!-- Pill 3: Internship -->
+    <rect x="499" y="0" width="235" height="28" rx="14" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+    <text x="512" y="18" fill="#a1a1aa" class="text-mono">EXP: <tspan fill="#e4e4e7">EX-DECODELABS INTERN</tspan></text>
 
-    <!-- Experience Pill -->
-    <rect x="509" y="0" width="235" height="30" rx="15" fill="url(#pillBg)" stroke="#334155" stroke-width="1" />
-    <text x="522" y="19.5" fill="#94a3b8" class="mono-pill">EXP: <tspan fill="#c084fc">EX-DECODELABS INTERN</tspan></text>
-
-    <!-- Interactive Terminal Command Pill -->
-    <rect x="756" y="0" width="200" height="30" rx="15" fill="url(#pillBg)" stroke="#334155" stroke-width="1" />
-    <text x="770" y="19.5" fill="#38bdf8" class="mono-pill">&gt; harshit.init()<tspan fill="#f43f5e">_</tspan></text>
+    <!-- Pill 4: Terminal Mode -->
+    <rect x="746" y="0" width="209" height="28" rx="14" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+    <text x="760" y="18" fill="#ffffff" class="text-mono">&gt; harshit.init()<tspan fill="#71717a">_</tspan></text>
   </g>
 
   <!-- Hero Title Section -->
-  <g transform="translate(45, 142)">
-    <!-- Back Glow Glow Silhouette -->
-    <text x="0" y="0" fill="#38bdf8" opacity="0.22" font-size="58" class="main-title">HARSHIT SAINI</text>
-    <!-- Front Gradient Title -->
-    <text x="0" y="-3" fill="url(#hologramTitle)" font-size="56" class="main-title">HARSHIT SAINI</text>
+  <g transform="translate(45, 134)">
+    <!-- Title Shadow for Depth -->
+    <text x="0" y="1" fill="#000000" font-size="56" class="title-bold" opacity="0.8">HARSHIT SAINI</text>
+    <!-- Foreground Metallic Title -->
+    <text x="0" y="0" fill="url(#monoTitle)" font-size="56" class="title-bold">HARSHIT SAINI</text>
 
-    <!-- Primary Subtitle -->
-    <text x="2" y="32" fill="#94a3b8" font-size="14.5" class="sub-title">
-      AI &amp; MACHINE LEARNING ENGINEER <tspan fill="#38bdf8">◆</tspan> FULL-STACK SYSTEMS ARCHITECT
+    <!-- Subtitle -->
+    <text x="2" y="32" fill="#a1a1aa" font-size="13.5" class="subtitle-clean">
+      AI &amp; MACHINE LEARNING ENGINEER <tspan fill="#ffffff">•</tspan> FULL-STACK SYSTEMS ARCHITECT
     </text>
 
-    <!-- Mission Statement -->
-    <text x="2" y="58" fill="#64748b" font-size="13" class="motto-text">
-      Architecting production AI products, scalable full-stack web platforms, and deep neural models.
+    <!-- Description -->
+    <text x="2" y="56" fill="#71717a" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12.5" font-weight="400">
+      Designing production AI workflows, scalable web platforms &amp; deep neural models.
     </text>
   </g>
 
-  <!-- Bottom Featured Tech Cards / Badges -->
-  <g transform="translate(45, 250)">
-    <!-- Card 1 -->
+  <!-- Monochrome Tech Chips -->
+  <g transform="translate(45, 238)">
+    <!-- Chip 1 -->
     <g transform="translate(0, 0)">
-      <rect width="176" height="42" rx="10" fill="url(#pillBg)" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.45" />
-      <text x="14" y="26" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12.5" font-weight="600">
-        🤖 LLMs &amp; Transformers
+      <rect width="176" height="38" rx="8" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+      <text x="14" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12" font-weight="600">
+        ⬡ LLMs &amp; Transformers
       </text>
     </g>
 
-    <!-- Card 2 -->
+    <!-- Chip 2 -->
     <g transform="translate(186, 0)">
-      <rect width="176" height="42" rx="10" fill="url(#pillBg)" stroke="#818cf8" stroke-width="1" stroke-opacity="0.45" />
-      <text x="14" y="26" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12.5" font-weight="600">
-        ⚡ PyTorch &amp; FastAPI
+      <rect width="176" height="38" rx="8" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+      <text x="14" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12" font-weight="600">
+        ⬢ PyTorch &amp; FastAPI
       </text>
     </g>
 
-    <!-- Card 3 -->
+    <!-- Chip 3 -->
     <g transform="translate(372, 0)">
-      <rect width="176" height="42" rx="10" fill="url(#pillBg)" stroke="#c084fc" stroke-width="1" stroke-opacity="0.45" />
-      <text x="14" y="26" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12.5" font-weight="600">
-        ⚛️ React &amp; TypeScript
+      <rect width="176" height="38" rx="8" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+      <text x="14" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12" font-weight="600">
+        ◈ React &amp; TypeScript
       </text>
     </g>
 
-    <!-- Card 4 -->
+    <!-- Chip 4 -->
     <g transform="translate(558, 0)">
-      <rect width="176" height="42" rx="10" fill="url(#pillBg)" stroke="#10b981" stroke-width="1" stroke-opacity="0.45" />
-      <text x="14" y="26" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12.5" font-weight="600">
-        🍃 MERN &amp; MongoDB
+      <rect width="176" height="38" rx="8" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+      <text x="14" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12" font-weight="600">
+        ❖ MERN &amp; MongoDB
       </text>
     </g>
 
-    <!-- Card 5 -->
+    <!-- Chip 5 -->
     <g transform="translate(744, 0)">
-      <rect width="168" height="42" rx="10" fill="url(#pillBg)" stroke="#f43f5e" stroke-width="1" stroke-opacity="0.45" />
-      <text x="14" y="26" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12.5" font-weight="600">
-        🚀 Production Deployed
+      <rect width="168" height="38" rx="8" fill="url(#chipBg)" stroke="#3f3f46" stroke-width="1" />
+      <text x="14" y="24" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="12" font-weight="600">
+        ◆ Production Deployed
       </text>
     </g>
   </g>
 
-  <!-- Bottom Accent Neon Bar -->
-  <rect x="0" y="336" width="1000" height="4" fill="url(#borderGrad)" />
+  <!-- Bottom Accent Line -->
+  <rect x="0" y="318" width="1000" height="2" fill="url(#edgeGlow)" />
 </svg>
