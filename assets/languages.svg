@@ -1,67 +1,68 @@
 <svg width="480" height="230" viewBox="0 0 480 230" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="cardGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#070a13" />
-      <stop offset="100%" stop-color="#0f172a" />
+    <linearGradient id="cardGradMono2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#09090b" />
+      <stop offset="100%" stop-color="#020202" />
     </linearGradient>
-    <linearGradient id="purplePink" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#818cf8" />
-      <stop offset="100%" stop-color="#f43f5e" />
+    <linearGradient id="silverLine2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#27272a" />
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#27272a" />
     </linearGradient>
   </defs>
-  <rect width="480" height="230" rx="14" fill="url(#cardGrad2)" stroke="#1e293b" stroke-width="1.5" />
-  <rect x="0" y="0" width="480" height="3" rx="1.5" fill="url(#purplePink)" />
+  <rect width="480" height="230" rx="12" fill="url(#cardGradMono2)" stroke="#27272a" stroke-width="1.2" />
+  <rect x="0" y="0" width="480" height="2" fill="url(#silverLine2)" />
 
-  <g transform="translate(26, 34)">
-    <text x="0" y="0" fill="#a855f7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto" font-size="16" font-weight="700" letter-spacing="1px">
+  <g transform="translate(24, 34)">
+    <text x="0" y="0" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Roboto" font-size="15" font-weight="700" letter-spacing="1.5px">
       📊 TOP LANGUAGES &amp; ECOSYSTEMS
     </text>
   </g>
 
-  <!-- Progress Bar Header -->
-  <g transform="translate(26, 52)">
-    <rect x="0" y="0" width="200" height="8" rx="4" fill="#f7df1e" />
-    <rect x="203" y="0" width="115" height="8" rx="4" fill="#3776ab" />
-    <rect x="321" y="0" width="45" height="8" rx="4" fill="#ea2d2e" />
-    <rect x="369" y="0" width="30" height="8" rx="4" fill="#3178c6" />
-    <rect x="402" y="0" width="26" height="8" rx="4" fill="#10b981" />
+  <!-- Monochrome Progress Bar -->
+  <g transform="translate(24, 52)">
+    <rect x="0" y="0" width="200" height="7" rx="3.5" fill="#ffffff" />
+    <rect x="203" y="0" width="115" height="7" rx="3.5" fill="#d4d4d8" />
+    <rect x="321" y="0" width="45" height="7" rx="3.5" fill="#a1a1aa" />
+    <rect x="369" y="0" width="30" height="7" rx="3.5" fill="#71717a" />
+    <rect x="402" y="0" width="26" height="7" rx="3.5" fill="#3f3f46" />
   </g>
 
   <!-- Language List -->
-  <g transform="translate(26, 82)">
+  <g transform="translate(24, 82)">
     <!-- Lang 1 -->
     <g transform="translate(0, 0)">
-      <circle cx="6" cy="6" r="5" fill="#f7df1e" />
-      <text x="18" y="10" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">JavaScript / React / Node</text>
-      <text x="428" y="10" text-anchor="end" fill="#94a3b8" font-family="SF Mono, Consolas" font-size="12">46.7%</text>
+      <circle cx="6" cy="6" r="4.5" fill="#ffffff" />
+      <text x="18" y="10" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">JavaScript / React / Node</text>
+      <text x="432" y="10" text-anchor="end" fill="#a1a1aa" font-family="SF Mono, Consolas" font-size="12">46.7%</text>
     </g>
 
     <!-- Lang 2 -->
     <g transform="translate(0, 28)">
-      <circle cx="6" cy="6" r="5" fill="#3776ab" />
-      <text x="18" y="10" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">Python / PyTorch / NLP</text>
-      <text x="428" y="10" text-anchor="end" fill="#94a3b8" font-family="SF Mono, Consolas" font-size="12">26.7%</text>
+      <circle cx="6" cy="6" r="4.5" fill="#d4d4d8" />
+      <text x="18" y="10" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">Python / PyTorch / NLP</text>
+      <text x="432" y="10" text-anchor="end" fill="#a1a1aa" font-family="SF Mono, Consolas" font-size="12">26.7%</text>
     </g>
 
     <!-- Lang 3 -->
     <g transform="translate(0, 56)">
-      <circle cx="6" cy="6" r="5" fill="#ea2d2e" />
-      <text x="18" y="10" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">Java (OOP &amp; Systems)</text>
-      <text x="428" y="10" text-anchor="end" fill="#94a3b8" font-family="SF Mono, Consolas" font-size="12">10.0%</text>
+      <circle cx="6" cy="6" r="4.5" fill="#a1a1aa" />
+      <text x="18" y="10" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">Java (OOP &amp; Systems)</text>
+      <text x="432" y="10" text-anchor="end" fill="#a1a1aa" font-family="SF Mono, Consolas" font-size="12">10.0%</text>
     </g>
 
     <!-- Lang 4 -->
     <g transform="translate(0, 84)">
-      <circle cx="6" cy="6" r="5" fill="#3178c6" />
-      <text x="18" y="10" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">TypeScript &amp; Vite</text>
-      <text x="428" y="10" text-anchor="end" fill="#94a3b8" font-family="SF Mono, Consolas" font-size="12">8.5%</text>
+      <circle cx="6" cy="6" r="4.5" fill="#71717a" />
+      <text x="18" y="10" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">TypeScript &amp; Vite</text>
+      <text x="432" y="10" text-anchor="end" fill="#a1a1aa" font-family="SF Mono, Consolas" font-size="12">8.5%</text>
     </g>
 
     <!-- Lang 5 -->
     <g transform="translate(0, 112)">
-      <circle cx="6" cy="6" r="5" fill="#10b981" />
-      <text x="18" y="10" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">HTML5, CSS3 &amp; Bash</text>
-      <text x="428" y="10" text-anchor="end" fill="#94a3b8" font-family="SF Mono, Consolas" font-size="12">8.1%</text>
+      <circle cx="6" cy="6" r="4.5" fill="#3f3f46" />
+      <text x="18" y="10" fill="#f4f4f5" font-family="-apple-system, BlinkMacSystemFont, Segoe UI" font-size="13" font-weight="600">HTML5, CSS3 &amp; Bash</text>
+      <text x="432" y="10" text-anchor="end" fill="#a1a1aa" font-family="SF Mono, Consolas" font-size="12">8.1%</text>
     </g>
   </g>
 </svg>
